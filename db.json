@@ -5,210 +5,210 @@
             "title": "استیکر ۱ + ۱",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "11.jpg"
+            "sticker": "https://ibb.co/JH1vLw7"
         },
         {
             "id": "02",
             "title": "استیکر اندروید ۴",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Android-4.jpg"
+            "sticker": "https://ibb.co/j3QjKSK"
         },
         {
             "id": "03",
             "title": "استیکر اندروید گرد",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Android-Gerd.jpg"
+            "sticker": "https://ibb.co/Ny1YcCC"
         },
         {
             "id": "04",
             "title": "استیکر اندروید مکانیک",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Android-Mechanic.jpg"
+            "sticker": "https://ibb.co/P616XMq"
         },
         {
             "id": "05",
             "title": "استیکر لینوکس Arch",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Arch-linux.jpg"
+            "sticker": "https://ibb.co/jw6TyLg"
         },
         {
             "id": "06",
             "title": "استیکر Bash",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Bash.jpg"
+            "sticker": "https://ibb.co/Pj3tzmm"
         },
         {
             "id": "07",
             "title": "استیکر Catch",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Catch.jpg"
+            "sticker": "https://ibb.co/7kRWJbB"
         },
         {
             "id": "08",
             "title": "استیکر Clean Code",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Clean-Code.jpg"
+            "sticker": "https://ibb.co/P4zZYpS"
         },
         {
             "id": "09",
             "title": "استیکر کد قهوه تکرار",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Code-Coffee-Repeat.jpg"
+            "sticker": "https://ibb.co/qMdCs7W"
         },
         {
             "id": "10",
             "title": "استیکر تبدیل قهوه به کد",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Coffee-to-Code.jpg"
+            "sticker": "https://ibb.co/WvWmpLN"
         },
         {
             "id": "11",
             "title": "استیکر Coffee Script",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Coffee-Script.jpg"
+            "sticker": "https://ibb.co/VQ8tmhH"
         },
         {
             "id": "12",
             "title": "استیکر تبدیل قهوه به کد",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Coffe-to-Code.jpg"
+            "sticker": "https://ibb.co/9yxHLLd"
         },
         {
             "id": "13",
             "title": "استیکر قهوه",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Coffee.jpg"
+            "sticker": "https://ibb.co/KX2kMQt"
         },
         {
             "id": "14",
             "title": "استیکر Css To Html",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "CSS-to-HTML.jpg"
+            "sticker": "https://ibb.co/mbz8BGm"
         },
         {
             "id": "15",
             "title": "استیکر Css",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "CSS.jpg"
+            "sticker": "https://ibb.co/BsxP8Vn"
         },
         {
             "id": "16",
             "title": "استیکر Developer",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Developer.jpg"
+            "sticker": "https://ibb.co/Htq5cFH"
         },
         {
             "id": "17",
             "title": "استیکر Dont Touch",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Dont-Touch.jpg"
+            "sticker": "https://ibb.co/Zxhnx4x"
         },
         {
             "id": "18",
             "title": "استیکر Emc2",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Emc2.jpg"
+            "sticker": "https://ibb.co/WK45qB8"
         },
         {
             "id": "19",
             "title": "استیکر False",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "False.jpg"
+            "sticker": "https://ibb.co/QkSt8gk"
         },
         {
             "id": "20",
             "title": "استیکر Food Sleep",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Food-Sleep.jpg"
+            "sticker": "https://ibb.co/LxjHH18"
         },
         {
             "id": "21",
             "title": "استیکر Geek Girl",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Geek-Girl.jpg"
+            "sticker": "https://ibb.co/DfLYYqQ"
         },
         {
             "id": "22",
             "title": "استیکر Geek Inside",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Geek-Inside.jpg"
+            "sticker": "https://ibb.co/syR0djP"
         },
         {
             "id": "23",
             "title": "استیکر Geek",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Geek.jpg"
+            "sticker": "https://ibb.co/f228D6j"
         },
         {
             "id": "24",
             "title": "استیکر Gem",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Gem.jpg"
+            "sticker": "https://ibb.co/JC8XznS"
         },
         {
             "id": "25",
             "title": "استیکر Github",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Github-Saye.jpg"
+            "sticker": "https://ibb.co/Qb8shph"
         },
         {
             "id": "26",
             "title": "استیکر Google Geek",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Google-Geek.jpg"
+            "sticker": "https://ibb.co/TMBypv3"
         },
         {
             "id": "27",
             "title": "استیکر Hacker Inside",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Hacker-Inside.jpg"
+            "sticker": "https://ibb.co/nmrhgNR"
         },
         {
             "id": "28",
             "title": "استیکر Hello World",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Hello-World.jpg"
+            "sticker": "https://ibb.co/b2bLqWc"
         },
         {
             "id": "29",
             "title": "استیکر I Am Programmer",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "I-am-Programmer.jpg"
+            "sticker": "https://ibb.co/kyhfxRL"
         },
         {
             "id": "30",
             "title": "استیکر Node",
             "price": 3000,
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-            "sticker": "Js-Node.jpg"
+            "sticker": "https://ibb.co/PcJm7xy"
         }
     ]
 }
