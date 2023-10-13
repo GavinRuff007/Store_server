@@ -1,27 +1,18 @@
-const express = require('express');
-const cors = require('cors');
-const path = require('path');
+const jsonServer = require('json-server')
+const cors = require('cors')
+const path = require('path')
 
-const app = express();
+const server = jsonServer.create()
+const router = jsonServer.router(path.join(__dirname, 'db.json'))
+const middlewares = jsonServer.defaults()
 
-app.use(cors());
-app.use(express.json());
+server.use(cors())
+server.use(jsonServer.bodyParser)
+server.use(middlewares)
+server.use(router)
 
-// Serve your JSON data from db.json
-const router = express.Router();
-const dbPath = path.join(__dirname, 'db.json');
-app.use('/api', router);
-router.get('/stickers', (req, res) => {
-  // Read and send JSON data from db.json here
-  const stickers = require(dbPath).stickers;
-  res.json(stickers);
-});
+const PORT = 8000
 
-// Serve your static images from the /images route
-app.use('/images', express.static(path.join(__dirname, 'images')));
-
-const PORT = 8000;
-
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
-});
+server.listen(PORT, () => {
+  console.log(`JSON Server is running on http://localhost:${PORT}`)
+})
